@@ -24,7 +24,7 @@ Specializing in building beautiful UI with clean code, smooth animations, and hi
 
 ### 🚀 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,js,html,css,tailwind,bootstrap,materialui" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,electron,redux,typescript,js,html,css,tailwind,bootstrap,materialui" />
 </p>
 
 ### 🎨 Animation & UI Enhancements
