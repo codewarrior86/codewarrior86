@@ -58,17 +58,18 @@ Specializing in building beautiful UI with clean code, smooth animations, and hi
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammadarjun&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadarjun&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=codewarrior86&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewarrior86&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🔗 Connect With Me
 <p>
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="https://instagram.com/yourinstagram"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-arjun/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="https://www.instagram.com/muhammadarjun_"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
+  <a href="https://dribbble.com/muhammadarjun"><img src="https://skillicons.dev/icons?i=dribbble" height="40" /></a>
+  <a href="mailto:muhammadarjun.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
 </p>
 
 ---
