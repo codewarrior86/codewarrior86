@@ -52,7 +52,7 @@ Specializing in building beautiful UI with clean code, smooth animations, and hi
 - Beautiful animations using Framer Motion
 - Modern responsive layout
 - Built with Next.js + TypeScript  
-🔗 https://yourportfolio.com *(replace with your link)*
+🔗 https://portfolio-arjun.web.app/
 
 ---
 
