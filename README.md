@@ -58,6 +58,7 @@ Specializing in building beautiful UI with clean code, smooth animations, and hi
 
 ## 📈 GitHub Stats
 <p align="center">
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=codewarrior86&show_icons=true&theme=tokyonight&cache_seconds=0"  />
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=codewarrior86&show_icons=true&theme=tokyonight" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewarrior86&layout=compact&theme=tokyonight" />
 </p>
